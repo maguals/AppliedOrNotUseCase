@@ -1,0 +1,9 @@
+*.[oa]
+*~
+/TODO
+# ignore all files in any directory named build
+test/
+doc/
+results/
+applicant_material/
+.ipynb_checkpoints/
